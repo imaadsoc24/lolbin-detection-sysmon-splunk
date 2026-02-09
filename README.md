@@ -38,6 +38,18 @@ Technique: T1218.011 — Signed Binary Proxy Execution (Rundll32)
 
 
 ## Lab Environment
+---
+
+## Screenshots
+
+### Splunk Detection Result
+![Splunk Detection](screenshots/splunk-detection.png)
+
+### Event Details
+![Event Details](screenshots/event-details.png)
+
+### Timeline View
+![Timeline](screenshots/timeline.png)
 
 Attacker Machine: Windows  
 Monitoring: Sysmon  
